@@ -1,0 +1,143 @@
+﻿Grippy: Operational Strategy Report
+CVO Final Project - Operations Management (2026F-A02)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xavier Millner  |  Vittorio Burello  |  Emin Mekhtiev  |  Sahej Wadhwa  |  Aishwarya Reddy
+
+
+1. Venture Overview and Value Proposition
+Industry Opportunity
+Electricians typically operate in dynamic work environments, as each job brings in unique technical challenges, demands different specialised tools and varied workplace conditions. While some trade contractors have a fixed working environment, electricians are constantly on the move - regularly shifting between job sites while managing an extensive kit of tools and adapting to work in confined spaces. This creates operational efficiencies driven by the need to transport, organise, locate and access equipment throughout the working day.
+While the conventional, upright backpacks address the problem of portability and storage, these force technicians to dig through layered compartments to retrieve the tools buried at the bottom. The standards in the market are set by the solutions engineered for organised storage along with resilient durability delivered by major players like Stanley Black & Decker, DEWALT and Klein Tools. While the current market solutions improve accessibility, a significant gap remains for a solution that brings together optimal visibility of tools with workspace functionality and ergonomic comfort.
+Our opportunity lies optimizing every step of the electricians workflow - transforming how they transport, locate and utilise their essential tools daily. The aim is to enhance the job-site utility and workflow efficiency through a seamless user flow interaction while maintaining at an cost-effective price.
+Proposed Customer and Value Proposition
+The proposed solution is a multifunctional backpack which transforms from a conventional style into an open-to-flat layout workspace. Its targeted user base are independent electrical contractors who operate across commercial and residential job sites without a fixed workplace infrastructure. It maximises tool visibility, with integrated compartment, to reduce operational delays caused by rummaging while also providing an ergonomic support harness to ensure maximum comfort and minimise physical strain while transiting between sites for daily utilization.
+Scope and Strategic Choice
+The venture would initially focus on a standardised model of the backpack to minimise production overhead and manufacturing complexity. By outsourcing the production to specialised contract manufacturers, the venture could primarily focus its resources on the product design development, quality assurance and customer feedback prior to scaling operations.
+2. Competitive and Operational Strategy
+Competitive Landscape and Positioning
+The competitive landscape for professional tool-storage features are currently dominated by major players, like Stanley Black & Decker, DEWALT and Klein Tools, delivering standardised tool storage solutions. The barrier to entry is defined by these market incumbents which leverage their established brand recognition, extensive distribution chains and consistent production through reliable manufacturing standards.
+The direct competitor being the Klein Tools’, Tool Station Backpack, as its design features a built-in, fold-out station workplace layout. Each of the incumbents deliver a distinct feature targeting a different market position. b
+
+
+New Product Development Strategy
+NPD strategy
+
+
+Grippy’s development strategy has been mainly focused on introducing new and innovative solutions to the challenges faced by electricians in their daily lives when transporting, organizing and accessing their tools. Traditional backpacks often require electricians to choose between accessibility to their gear, capacity, ease of transport and comfort; our product aims to eliminate these trade-offs by introducing a fully deployable backpack that combines convenient tool access with an ergonomic and comfortable back support. To achieve this goal, our strategy has focused on three main elements: deliver a distinct value, shown through our product and design to our customers, pursuing operational excellence through the streamlining and optimising of our system and orienting them towards a successful first product launch.
+
+
+The first stage in the road to developing our strategy was to understand the needs of our target customers and identifying opportunities we could take based off of them. Through our initial research we found out that electricians face multiple challenges regarding three main topics: uncertainty on the job, access to their tools and the difficulty of the job increasing as they get older. Our analysis of these findings paired with common and uncommon beliefs that we discovered led us to challenge the assumption that electricians must choose between having good storage on the go for their tools, having them accessible to them quickly and reliably and comfort. This formed the idea for Grippy in our minds and the value we wanted to bring onto our clients, giving them a convenient, organised and comfortable way to carry and access their equipment.
+
+
+After we broke the mold for our idea in our minds, we knew it was time to develop this into a rough version of a prototype in order to visualise our product into the real world and start doing some real life tests with electricians. These tests will focus on the factors mentioned above: tool retrieval time, comfort while carrying, durability, weight distribution and ease of use. The feedback we’ve gathered and that we will continue to gather will help us identify and correct weaknesses before moving onto market launch. Comparing Grippy with traditional tool bags and backpacks will also help us to evaluate whether our design delivers any improvement from what’s already on the market, making this step crucially important as our success as a business will majorly depend on our ability to deliver the benefits we promise through our value proposition.
+
+
+As identified in our capabilities gap analysis, progressing from prototyping to commercialization will require us to develop multiple capabilities that we currently don’t have access to, especially regarding material sourcing, manufacturing, quality control and product distribution. Having chosen to focus on Operational Excellence, we have to make sure that these gaps are always found, addressed and then closed, repeating this to ensure that we’re always trying to optimise, streamline and better our operations and systems. To do this, we intend to partner with reliable suppliers and manufacturers, select durable yet cost-effective materials and develop our own standardized production process to minimize waste and avoid unnecessary complexities. Our analysis of Black & Decker’s operations and functioning highlighted the importance of an efficiency supply chain, keeping manufacturing consistent and establishing a strong distribution network. While our initial operations will be significantly smaller, our aim is to apply the same principles as Black & Decker downscaled to match our capabilities. 
+
+
+Before committing to a full market launch, we intend to establish a small-scale production process to evaluate manufacturing feasibility, product consistency ad operational costs. Producing a limited initial batch would allow us to identify potential bottlenecks and hiccups, ensure our quality-control functions as expected and evaluate our distribution capabilities without over-committing resources we don’t have. The results would help determine whether our production system is sufficiently reliable and efficient to support a launch to the market and commercialization.
+
+
+Ultimately, our new product development strategy is designed to progressively reduce the uncertainty surrounding Grippy, moving from identifying customer needs to establishing the product and operations for its launch. Ensuring we continue to be involved with our customers and continuing to smoothen our operations we aim to introduce our new product into the market, offering electricians a practical improvement over what’s on the current market and making sure it can be produced, distributed and scaled sustainably and efficiently as we grow.
+
+
+Operational Process & Supply Chain Strategy
+4.1 Proposed Operating Model
+Grippy’s proposed operating model shall focus on developing a durable, ergonomic and functional tool bag for electricians at reasonable costs and highest quality. As Grippy is in the early development stage, the initial production strategy shall focus on small-batch production, quality testing and flexibility as opposed to large-scale production.
+The raw materials (such as fabrics, zippers, straps, compartments to be removed from the bag, etc.) will be sourced from suppliers. The cutting, stitching, assembly and finishing of the products can be outsourced to specialized bag manufacturers, thus enabling Grippy to save on the initial investments required for machinery and production space.
+Grippy will initially maintain a low inventory level to allow for testing of the product as well as for customer feedback. The completed products will be checked for quality before being packaged for distribution to customers.
+The main objective of the proposed operating model for Grippy is to develop a tool bag of high quality at reasonable prices and with great flexibility and fast delivery to the customers.
+4.2 Process Design
+Grippy's production process will follow a structured workflow to ensure consistency and minimize delays.
+Proposed Production Workflow:
+Design Finalization → Material Sourcing → Cutting & Stitching → Component Assembly → Quality Inspection → Packaging → Order Fulfillment → Customer Feedback
+Stage 1: Design and Material Sourcing
+The team will finalize the fold-flat design, the various detachable compartments and the various ergonomic features. They will then source materials which are durable, light, cheap and readily available.
+Stage 2: Manufacturing and Assembly
+The selected materials will be cut to size and sewn together to form the various components of the bag, such as detachable organizers, straps, zippers etc. These components will then be assembled into the final product using appropriate connectors.
+Stage 3: Quality Control
+Check for proper fold-flat mechanism operation, secure detachable compartments and sufficient tool-load capacity for the bag.
+Stage 4: Packaging and Fulfillment
+The products are packaged up ready for delivery to customers. Orders from customers are then processed and sent out with the appropriate delivery service.
+Potential Inefficiencies
+Major inefficiencies in the process of making the bags will likely include shortages of materials, delays with external suppliers, bad stitching/assembly and more time being taken to make the very specialized bags than normal.
+To help reduce the inefficiencies Grippy can use to streamline production of the Grippy Bags, Grippy can create clear manufacturing specifications for the bags, maintain communication with suppliers, and complete quality checks throughout production, not just at the end of the production cycle.
+4.3 Push vs. Pull Strategy
+Grippy has to decide between producing based on anticipated customer demand and manufacturing based on customer orders.
+A push strategy is used to produce tool bags in advance in order to minimize customer waiting times. Grippy can improve its production by using a push strategy when demand is predictable.
+However, as Grippy is a new product, there is risk of overproduction, of holding too much inventory, of holding products that are not sold.
+A pull strategy is based on actual orders for products, so production is only started once there are customers for the products that are being made. The risk of overproduction is therefore removed but customers may have to wait for longer if there is a shortage of materials or capacity.
+A hybrid push-pull strategy would be most appropriate for Grippy’s initial launch.
+By purchasing standard materials and common components in advance of demand, the inventory risk is minimized.However, final assembly of the Grippy product is triggered by customer orders for the product.
+As sales become more predictable, the company can adjust the quantities of products to be produced and hold a small inventory of the most popular configurations.
+
+
+4.4 Customer Order Decoupling Point (CODP)
+The Customer Order Decoupling Point (CODP) determines the stage in the production process where activities shift from forecast-driven production to customer-order-driven production.
+Three potential strategies for Grippy are Make-to-Stock (MTS), Assemble-to-Order (ATO), and Make-to-Order (MTO).
+Strategy
+	Application to Grippy
+	Advantages
+	Limitations
+	Make-to-Stock (MTS)
+	Finished Grippy bags are manufactured and stored before orders arrive.
+	Fast delivery and efficient batch production.
+	Higher inventory risk and limited flexibility.
+	Assemble-to-Order (ATO)
+	Standard bag components are prepared in advance and assembled after an order is received.
+	Balances customization, inventory control, and delivery speed.
+	Requires component availability and efficient assembly coordination.
+	Make-to-Order (MTO)
+	Manufacturing begins only after a customer places an order.
+	Low finished-goods inventory and greater customization.
+	Longer delivery times and potentially higher unit costs.
+	Recommended Strategy: Assemble-to-Order (ATO)
+ATO is the most appropriate long-term production strategy for Grippy because of the many modular parts, such as detachable compartments, as well as several different tool-belt configurations.
+Standard bag bodies, straps and organizer modules are held in stock. Final assembly of the product is done to order.
+Because there are so many different combinations of tool-belts that Grippy could manufacture, it would be impractical for the company to hold stock of complete products.
+The CODP would be located in the final assembly stage where available modules would be used to build the complete product based on the customer’s order.
+However, during initial prototype development and early market testing, Grippy may rely on MTO or very small production batches until its modular components and demand patterns are validated.
+4.5 Operational Coordination
+Effective coordination between suppliers, manufacturers, inventory management, and fulfillment partners will be essential to Grippy's operational success.
+Production Coordination
+Grippy will establish production schedules and will maintain communication with the respective manufacturers in order to ensure that raw materials and parts are available when required. It will also maintain standard specifications for the product in order to ensure consistent quality from one batch to the next.
+Inventory Coordination
+Inventory management will focus on tracking materials, parts for detachable compartments and finished products in order to maintain sufficient stock of frequently used items in order to prevent delays in production while minimizing inventory costs.
+Order and Fulfillment Coordination
+Customer orders are managed through a single order management system which connects stock levels with the assembly and delivery of products. When an order is confirmed, the required components are reserved for assembly and then dispatched as complete products.
+Continuous Improvement
+Monitoring customer feedback, defect rates, delivery on time, and production delays, will help to identify bottlenecks, improve processes, and optimize supplier relations.
+The recommended operating strategy can be implemented to improve Grippy’s operational reliability and to gradually scale up the business while keeping costs under control.
+In summary, Grippy will use an outsourced manufacturing process and a formal production process, a hybrid push-pull inventory system and over time, switch to an Assemble-to-Order system. This will allow the company to manage costs and minimize inventory risk and yet allow the company to be flexible enough to meet the differing needs of the various electricians using the product.
+Capacity, Efficiency and Quality Management
+5.1 Production Capacity and Resource Planning 
+        At this current stage of development, we have a cardboard prototype for Grippy which displays the capabilities of opening all the way until the bag is flat. However, the prototype still needs to be adjusted to incorporate the detachable compartments that can be fixed onto a utility belt. We also need to account for the fact that the bag can be hung up for user convenience in our next prototype. Once we have visualized what our finalized product should look like via a finalized prototype, we can direct our attention to actual product creation. In order to convert our product from a cardboard prototype into a real, sellable product we need to source durable materials for the bag itself such as heavy duty nylon, polyester, or a similar material that can withstand the unpredictable nature of a jobsite. The straps of the bag could be more of a mesh material so they are breathable for the user. Given that the bag will be able to open all the way, the stitching of it needs to be heavy duty, also likely some sort of thick nylon material that can withstand repeated usage without shredding or failing structurally. 
+        In order to source these materials for the Grippy bag, we could coordinate with textile manufacturers, and/or explore the option of working with backpack manufacturers to produce our product. While the former is certainly a viable option, the latter may be more feasible for our budget plans. Regardless of the approach we select, the manufacturer must be able to accommodate the unique design of Grippy. Our selected method of manufacturing must be able to incorporate the ability for the bag to open until it lays flat, and for the main tool compartments to be able to be removed and attached to a utility belt. It would also be worth it for us to explore the possibility of including our own utility belt unique to the Grippy bag that said compartments could be fixed onto. 
+
+
+5.2  Operational Efficiency and Capacity Improvements
+        Once a fully functional prototype is developed, and we have chosen a manufacturing method that best suits our needs, the next step would inevitably be to establish a production process that is efficient and can be maintained consistently. The manufacturing process for a Grippy bag may be more complex than a traditional backpack due to the removable components, and the fact that it opens fully. Bearing that in mind, it is imperative to determine a process that is both effective while also minimizing product waste, errors, and assembly time. 
+We can achieve this by standardizing product measurements, documenting our material and stitching specifications, and establishing the configuration of the removable parts. Setting guidelines for manufacturing reduces the likelihood of production errors, and it also creates an assembly process that can be easily repeated. We should also aim to develop positive relationships with suppliers wherever possible to ensure the necessary resources are available when needed, mitigating production delays.         
+        Production efficiency should be evaluated based on the amount of product waste, assembly time, manufacturing defects, and the consistency of product outcomes after assembly. We should take extra care with each prototype to document any defects, the total assembly time, and how much material was wasted per unit produced. Taking the time to record this data with each prototype iteration will be the biggest indication of whether or not our production process is improving. Identifying any hiccups in the process allows us to address them. In essence, we are striving to create a repeatable process that prioritizes effectiveness, without having to sacrifice the durability or convenience of our product which makes it distinguishable.
+
+
+5.3 Product Quality & Performance Measurement
+        Great product quality is of the utmost importance given that our users will be working in demanding work environments. We need to be able to determine if the product features can withstand regular use while maintaining optimal functionality. While our cardboard prototypes do allow us to visualize the function of Grippy, it is unable to demonstrate to us how well the bag would work with repeated use, and in the intended work environment. Each component, including the back, the detachable compartments, and the straps should be tested in the intended conditions of usage. It is imperative that we set a standard for the quality of our product, so that we’re ensuring durability and reliability to our users. 
+        We should prioritize getting feedback from electricians in our target market to determine any improvements or weaknesses with Grippy. This will allow us to determine whether or not the product is actually living up to the standard we are promising to prospective customers. Their feedback will also be able to help us understand ways to better implement back support into our product, a pain point which has been recurring in our interviews thus far. 
+        To gauge product quality and consistency, inspections should be conducted both pre and post assembly, and on the individual materials. Recording our findings with each inspection will allow us to pinpoint any recurring issues with suppliers or the production process, and enable us to make design or manufacturing changes where necessary. By actively seeking user feedback, following a strict set of guidelines for production, and conducting inspections at different stages, we are ensuring that Grippy’s design is refined and perfected before we produce on a larger scale. We are also ensuring that the product meets the needs of our target users.

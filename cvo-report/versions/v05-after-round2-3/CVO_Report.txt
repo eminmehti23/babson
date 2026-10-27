@@ -1,0 +1,235 @@
+﻿Grippy: Operational Strategy Report
+CVO Final Project - Operations Management (2026F-A02)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xavier Millner  |  Vittorio Burello  |  Emin Mekhtiev  |  Sahej Wadhwa  |  Aishwarya Reddy
+1. Venture Overview & Value Proposition
+1.1 Industry Opportunity
+Electricians typically operate in dynamic work environments. While some trade contractors have a fixed working environment, electricians are constantly on the move - regularly shifting between job sites while managing an extensive kit of tools and adapting to work in confined spaces. This creates operational inefficiencies driven by the need to transport, organize, locate and access equipment throughout the working day.
+While the conventional, upright backpacks address the problem of portability and storage, these force technicians to dig through layered compartments to retrieve the tools buried at the bottom. Most incumbent bags are built for storage and durability. The closest product, Klein Tools' Tool Station Backpack, adds a front flap that folds down into a workstation and padded, adjustable straps[1], but comfort is treated as padding on a storage bag rather than as the design goal. While the current market solutions improve accessibility, a significant gap remains for a solution that brings together optimal visibility of tools with workspace functionality and ergonomic comfort. Back support has been a recurring pain point in our interviews with electricians[2], so incumbents under-serve independent electricians who carry a full kit between job sites every day.
+1.2 Proposed Customer and Value Proposition
+The proposed solution, the Grippy backpack, leads with an ergonomic support harness that ensures maximum comfort and minimizes physical strain while transiting between sites. The bag transforms from a conventional style into a workspace that opens flat, and its detachable compartments (a base set plus add-on compartments the customer picks at order) can be fixed onto a utility belt for access on the move. Its target users are independent electrical contractors who operate across commercial and residential job sites without a fixed workplace infrastructure. Together, these features maximize tool visibility and reduce operational delays caused by rummaging.
+1.3 Uncommon Belief and Value Theory
+The common belief in the trade is that a tool bag must trade off capacity, access and carrying comfort. Grippy's uncommon belief is that independent electricians will pay for carrying comfort and on-the-move access, which incumbents treat as secondary. Following the Value Lab approach[3]. The problem Grippy must solve is to deliver that comfort and access without giving up the capacity and durability incumbents already offer. Its value theory, tested in Section 6.3, is: independent electricians who move between job sites will prefer, at a price close to the Klein Tool Station, a backpack that opens flat, carries detachable compartments for access on the move and reduces carrying strain through an ergonomic support harness. If the theory holds, this segment switches first, followed by other mobile trades.
+1.4 Scope and Strategic Choice
+The venture would initially focus on a standardized model of the backpack (one body in one size, with a base set of detachable compartments) to minimize production overhead and manufacturing complexity. A contract backpack manufacturer will cut and sew the bag bodies, straps and compartments to Grippy's specification; Grippy will inspect incoming lots, hold component stock and do the final kitting of each order. This lets the venture focus its resources on product design development, quality assurance and customer feedback prior to scaling operations. Grippy competes on Product Leadership (Section 2).
+2. Competitive & Operational Strategy
+2.1 Competitive Landscape and Positioning
+The competitive landscape for professional tool-storage features is currently dominated by major players such as Stanley Black & Decker (including DEWALT) and Klein Tools, delivering standardized tool storage solutions. The barrier to entry is defined by these market incumbents, which leverage their established brand recognition, extensive distribution chains and consistent production through reliable manufacturing standards.
+Stanley Black & Decker, the market leader, reported $13.3 billion of Tools & Outdoor sales in fiscal 2024[4]. Two canvas blocks explain its position: Channels, because home centers, mass merchants and distributors put its brands in front of every trade, and Key Resources, its global manufacturing scale and brands such as DEWALT. Klein Tools, a family-owned manufacturer founded in 1857, is the electrician specialist[5]; its position rests on Customer Segments and Value Proposition, trade-specific durability sold to electricians. The two also differ in cost structure and in how broad a range they serve (Exhibit 1). Each has a vulnerability: Stanley Black & Decker's scale model favors broad, standardized lines over niche designs, and Klein's bags extend a storage product rather than rethinking how electricians carry and reach their tools.
+The closest direct competitor is Klein Tools' Tool Station Backpack, whose design features a built-in, fold-out station workplace layout. At about $110[6], it sets the price reference for Grippy. Grippy adds two features the Klein listing does not describe: the ergonomic support harness, which answers the back-support pain point raised in our interviews, and detachable compartments for access on the move.
+2.2 Value Discipline and Operational Alignment
+Grippy competes on Product Leadership, one of Treacy and Wiersema's three value disciplines[7]. Stanley Black & Decker competes on scale and cost and Klein on trade breadth; a startup making small outsourced batches cannot match either on cost, but it can lead on design. The order winners are functional design and ergonomics. The qualifiers are durability, a price near the Klein Tool Station and a reasonable lead time. The discipline drives the rest of the operating strategy: development is iterative (Section 3); the bag is modular, with outsourced sewing, in-house final kitting and Assemble-to-Order (Section 4); and quality is defined as functional performance (Section 5).
+3. New Product Development Strategy
+Grippy's development strategy has been mainly focused on introducing new and innovative solutions to the challenges electricians face when transporting, organizing and accessing their tools. Traditional backpacks often require electricians to choose between accessibility to their gear, capacity, ease of transport and comfort; Grippy aims to eliminate these trade-offs with three V1 features: a backpack that opens flat, detachable compartments and an ergonomic support harness. The strategy combines distinct value, shown through product and design, with building reliable small-batch operations for a successful first launch.
+The first stage was to understand the needs of target customers. Our initial research found two linked problems: electricians struggle to reach their tools quickly while moving between sites, and the physical strain of carrying them grows as they get older. These findings led us to challenge the assumption that electricians must choose between storage on the go, quick and reliable access to their tools, and comfort.
+The next step was a rough cardboard prototype, to visualize the product and start testing it with electricians. The cardboard prototype can already test tool retrieval time, tool visibility and how easily the bag opens flat; durability, load, carrying comfort and weight distribution need a sewn prototype. Test protocols and results are in Section 6. Comparing Grippy with traditional tool bags and backpacks shows whether the design improves on what is already on the market, which matters because Grippy's success depends on delivering the benefits its value proposition promises.
+As the capabilities gap assessment in Section 6 shows, progressing from prototyping to commercialization will require capabilities Grippy does not yet have, especially in material sourcing, manufacturing, quality control and product distribution. Consistent with Grippy's Product Leadership discipline (Section 2), development is iterative: each prototype round targets the gaps the assessment identifies. To close them, Grippy will partner with reliable suppliers and manufacturers and develop its own standardized production process. Grippy borrows Stanley Black & Decker's operating practices (consistent manufacturing, an efficient supply chain) while competing on design.
+Before committing to a full market launch, Grippy will run a Phase 0 pilot batch to evaluate manufacturing feasibility, product consistency and operational costs. This limited initial batch will identify potential bottlenecks and problems, confirm that quality control functions as expected and test distribution capabilities without over-committing resources. The results will determine whether the production system is reliable and efficient enough to support launch.
+4. Operational Process & Supply Chain Strategy
+4.1 Proposed Operating Model
+Grippy’s proposed operating model shall focus on developing a durable, ergonomic and functional backpack for electricians, in line with the competitive priorities ranked in Section 2. As Grippy is in the early development stage, the initial production strategy shall focus on small-batch production, quality testing and flexibility as opposed to large-scale production.
+The raw inputs (fabric, webbing, zippers, buckles and connectors) will be sourced from suppliers. A contract backpack manufacturer will cut and sew the bag bodies, straps and compartments to Grippy's specification; Grippy will inspect incoming lots, hold component stock and do the final kitting of each order.
+4.2 Process Design
+Proposed Production Workflow: Material sourcing → Manufacturer sews bodies and compartments → Inspection 1 (manufacturer) → Inspection 2 (Grippy goods-in) → Component stock [CODP] → Customer order → Grippy final kitting → Inspection 3 (opens flat, compartments attach, harness and strap load) → Ship
+Grippy finalizes the open-flat design, compartments and harness and sources durable, light and readily available materials. The manufacturer cuts and sews bodies, straps and compartments in small lots and inspects them before shipping. Grippy checks each lot on arrival and holds it as component stock. When an order arrives, Grippy kits the chosen compartments with a body, checks that the bag opens flat, that the compartments attach securely and that the harness and straps carry their rated load, then packs and ships it.
+Potential Inefficiencies. Major inefficiencies in the process of making the bags will likely include shortages of materials, delays with external suppliers, bad stitching/assembly and more time being taken to make the very specialized bags than normal.
+Section 5.2 sets out the specifications, supplier coordination and in-process checks that reduce these risks.
+4.3 Push vs. Pull Strategy
+A push strategy produces in advance of demand to minimize customer waiting times, but for a new product it risks overproduction and unsold inventory.
+A pull strategy starts production only once customers have ordered, which removes the risk of overproduction but can lengthen waiting times.
+At launch Grippy runs Assemble-to-Order (Phase 1): bodies and compartments are made ahead of demand (push); final kitting starts only when an order arrives (pull).
+As sales become more predictable, the company can adjust the quantities of products to be produced and hold a small inventory of the most popular configurations (Phase 2).
+4.4 Customer Order Decoupling Point (CODP)
+The Customer Order Decoupling Point (CODP) is the stage where production shifts from forecast-driven to customer-order-driven.
+Three potential strategies for Grippy are Make-to-Stock (MTS), Assemble-to-Order (ATO) and Make-to-Order (MTO), compared in Exhibit 2.
+Recommended Strategy: Assemble-to-Order (ATO). ATO is the most appropriate production strategy for Grippy because of the many modular parts: a base set of detachable compartments plus add-on compartments the customer picks at order, which create many compartment configurations.
+Because there are so many compartment configurations that Grippy could offer, it would be impractical for the company to hold stock of complete products.
+The CODP is located at the final kitting stage where available modules would be used to build the complete product based on the customer’s order.
+During the Phase 0 pilot batch, Grippy validates components and demand before moving to Assemble-to-Order.
+4.5 Operational Coordination
+Production Coordination. Grippy will set production schedules with the manufacturer and maintain standard specifications, so that materials and parts are available when required and quality is consistent from batch to batch.
+Inventory Coordination. Inventory tracking covers bag bodies and compartments, keeping enough stock of frequently used items to avoid kitting delays while minimizing inventory costs.
+Order and Fulfillment Coordination. Grippy will sell direct online to independent contractors first and through electrical supply houses later. Orders are managed through a single order management system that connects stock levels with final kitting and delivery. When an order is confirmed, the required components are reserved, kitted and dispatched as a complete product, with an order-to-ship target of [X] days.
+In summary, Grippy will use outsourced manufacturing with in-house final kitting and a formal production process, running Assemble-to-Order from launch and stocking the most popular configurations once demand is stable (Phase 2). This keeps costs and inventory risk low while meeting the differing needs of electricians.
+5. Capacity, Efficiency & Quality Management
+5.1 Production Capacity and Resource Planning
+At this stage of development, Grippy has a cardboard prototype that opens all the way until the bag is flat; it does not yet include the detachable compartments, which the next prototype adds. Grippy's own utility belt and a hanging point are V2 features. To become a sellable product, the bag needs durable materials such as heavy-duty nylon or polyester that can withstand the unpredictable nature of a job site, breathable mesh straps, and heavy-duty nylon stitching, because a bag that opens fully puts repeated stress on its seams.
+Grippy will select a contract backpack manufacturer that can sew the open-flat construction and the support harness, accepts a low minimum order and has a record of consistent quality. Capacity then depends on two stages. Upstream, the manufacturer's minimum order and lead time set how much component stock Grippy must hold. Downstream, final kitting sets weekly output: the kitting hours the team can staff divided by the minutes each order takes. Because kitting one order is a short manual task, the likely bottleneck in Phases 0 and 1 is the manufacturer's replenishment lead time; kitting becomes the constraint only if orders outgrow the hours the team can staff. The figures (pilot size, minimum order, lead time, kitting minutes per order and orders per week) await manufacturer quotes and the kitting trial in Section 6.2, so they remain planning assumptions.
+5.2 Operational Efficiency and Capacity Improvements
+Because the bag opens fully and has removable parts, Grippy will standardize product measurements, document its material and stitching specifications and fix the configuration of the removable parts. Setting guidelines for manufacturing reduces the likelihood of production errors, and it also creates a kitting process that can be easily repeated.
+Performance will be tracked against six KPIs, each with a starting target that the pilot batch will refine: tool retrieval time ([X] seconds), rated load ([X] kg), harness and strap load ([X] kg), defect rate (at most [X]%), final-kitting time ([X] minutes per order) and order-to-ship time ([X] days). Recording them for each prototype and for the pilot batch shows whether the process is improving.
+5.3 Product Quality & Performance Measurement
+Grippy's quality standard follows from its value proposition: each bag must carry its rated load, survive repeated open and close cycles and keep the harness securely attached under load. The cardboard prototype cannot show how the bag performs with repeated use, so these tests need sewn samples.
+Grippy will prioritize feedback from electricians in the target market to find improvements or weaknesses and to check whether the product lives up to the standard promised to prospective customers. Their feedback will also show how to better implement back support, a pain point that has been recurring in our interviews thus far.
+To gauge product quality and consistency, Grippy will inspect at three points that match the workflow in Section 4.2: the manufacturer's check before shipping, Grippy's goods-in check of each lot, and a final check of every kitted order. Recording the findings from each inspection will pinpoint recurring issues with suppliers or the production process and enable design or manufacturing changes where necessary.
+6. Operational Risks & Implementation Strategy
+6.1 Capability Gaps and Implementation Path
+Grippy's strategic operational audit follows three steps (Exhibit 3). Step 1 sets out what the strategy requires, using the ranked priorities in Section 2. Step 2 compares those requirements with Grippy's current capabilities. Step 3 names the gaps and decides whether to build, buy or partner. Of the areas Section 3 lists, three gaps matter most, each with a hypothesis to test:
+* H1, manufacturing (partner): Grippy cannot sew the open-flat body or the harness itself, so it will partner with a contract backpack manufacturer.
+* H2, final kitting (build): Grippy has never kitted orders; it will build this in-house because kitting is where each configuration is created.
+* H3, quality control (build, and buy lab tests if needed): Grippy has no load or harness-strength standards yet; it will set simple in-house tests.
+Implementation follows three phases. Phase 0 is the pilot batch, which validates the manufacturer, kitting and quality control; Grippy moves to Phase 1 when the defect rate is at or below [X]% and lead time is at or below [Y] weeks. Phase 1 runs Assemble-to-Order from launch, with the CODP at final kitting. After [Z] months of stable demand, Phase 2 stocks the most popular configurations.
+6.2 Deal-Killer Risks and Experiments
+Each gap carries a deal-killer risk, so each hypothesis is tested against a kill threshold set before the test runs (Exhibit 4). Tests that work on the cardboard prototype run now; tests that need a sewn prototype wait for the first samples.
+* H1: a contract manufacturer can sew the open-flat body and harness to specification at a minimum order Grippy can afford. Test: quotes and a sewn sample from [X] manufacturers. Kill threshold: no manufacturer meets the specification at a minimum order of [X] units or fewer.
+* H2: Grippy can kit orders accurately and quickly enough to meet the order-to-ship target. Test: the rapid prototype test below, on cardboard. Kill threshold: more than [X]% of orders kitted with errors, or more than [X] minutes per order.
+* H3: the harness and straps carry the rated load without failure. Test: load and open/close cycle tests on a sewn sample. Kill threshold: any harness or strap failure below the rated load.
+Rapid prototype test (H2). Protocol: three team members each kit five orders from a pick list, using the cardboard body and mock compartments; each order is timed and errors are counted. Result: [X] minutes per order on average and [X] errors across 15 orders. The result replaces the kitting-time assumption in Section 5.1.
+6.3 Value-Proposition Test
+Hypothesis: independent electricians who move between job sites will prefer, at a price close to the Klein Tool Station, a backpack that opens flat, carries detachable compartments for access on the move and reduces carrying strain through an ergonomic support harness. Method: show [n] independent electricians the Grippy prototype next to the Klein Tool Station's specifications, photos and price, record which they prefer and what they would pay, and open a pre-order page to measure commitment. Kill threshold, set in advance: fewer than [X]% prefer Grippy, or median willingness to pay falls below the Klein Tool Station's price.
+7. Strategic Recommendations & Conclusion
+Grippy should take four decisions. First, compete on Product Leadership, winning on functional design and ergonomics while matching incumbents on durability and price. Second, launch one V1 backpack that opens flat, with detachable compartments and an ergonomic support harness, and leave the utility belt and hanging point for V2. Third, run Assemble-to-Order with outsourced sewing and in-house final kitting, moving between phases only when the triggers in Section 6.1 are met. Fourth, sell direct online to independent contractors first and add electrical supply houses later.
+The plan stops or changes if any kill threshold in Sections 6.2 and 6.3 is crossed: no manufacturer meets the specification at an affordable minimum order, kitting cannot meet the order-to-ship target, the harness fails below its rated load, or electricians do not prefer Grippy at a price near the Klein Tool Station.
+In short, electricians are forced to trade comfort and access for storage. Grippy believes they will pay to avoid that trade-off, competes on Product Leadership, builds a modular Assemble-to-Order operation around the design, and will next test whether manufacturers, kitting and customers confirm the theory.
+Exhibits
+Exhibit 1. Business Model Canvas: Stanley Black & Decker and Klein Tools
+Block
+	Stanley Black & Decker (incl. DEWALT)
+	Klein Tools
+	Customer Segments
+	All trades and DIY consumers
+	Professional electricians and allied trades
+	Value Proposition
+	Broad, reliable tool and storage range at competitive prices
+	Trade-specific durability and electrician-focused design
+	Channels
+	Home centers, mass merchants, distributors, online retail
+	Electrical distributors, home centers, online retail
+	Customer Relationships
+	Brand loyalty built through tool platforms
+	Long-standing trust among electricians
+	Revenue Streams
+	Power tools, hand tools, storage and outdoor products
+	Hand tools, testers, tool bags and storage
+	Key Resources
+	Global manufacturing scale; brands such as DEWALT, STANLEY and CRAFTSMAN
+	Brand reputation with electricians; specialist product design
+	Key Activities
+	High-volume manufacturing, supply-chain management, marketing
+	Product design and quality manufacturing for the electrical trade
+	Key Partners
+	Large retailers, suppliers, contract manufacturers
+	Electrical distributors and suppliers
+	Cost Structure
+	Scale-driven, low unit cost
+	Higher unit cost, premium positioning
+	
+
+Decisive blocks: Channels and Key Resources for Stanley Black & Decker; Customer Segments and Value Proposition for Klein Tools. Sources: footnotes 4 to 6.
+Exhibit 2. Customer order decoupling point options for Grippy
+Strategy
+	Application to Grippy
+	Advantages
+	Limitations
+	Make-to-Stock (MTS)
+	Finished Grippy backpacks are manufactured and stored before orders arrive.
+	Fast delivery and efficient batch production.
+	Higher inventory risk and limited flexibility.
+	Assemble-to-Order (ATO)
+	Standard bag components are prepared in advance and assembled after an order is received.
+	Balances customization, inventory control, and delivery speed.
+	Requires component availability and efficient assembly coordination.
+	Make-to-Order (MTO)
+	Manufacturing begins only after a customer places an order.
+	Low finished-goods inventory and greater customization.
+	Longer delivery times and potentially higher unit costs.
+	
+
+Exhibit 3. Strategic operational audit and capability gaps
+Area
+	Step 1: what the strategy requires
+	Step 2: current capability
+	Step 3: gap and decision
+	Hypothesis
+	Manufacturing
+	Sew the open-flat body and harness to specification in small lots
+	None in-house
+	Large: partner with a contract backpack manufacturer
+	H1
+	Final kitting
+	Kit each configuration accurately within the order-to-ship target
+	Untested
+	Medium: build in-house
+	H2
+	Quality control
+	Rated load, open/close cycles, harness strength
+	No standards or test equipment
+	Large: build simple tests, buy lab tests if needed
+	H3
+	Material sourcing
+	Durable fabric, webbing, zippers, buckles
+	Supplier research only
+	Medium: source through the manufacturer
+	Part of H1
+	Distribution
+	Direct online sales, supply houses later
+	None
+	Medium: build an online store first
+	Pre-orders (6.3)
+	
+
+Exhibit 4. Experiment protocols and kill thresholds
+Hypothesis
+	Test
+	Prototype
+	Sample
+	Metric
+	Kill threshold
+	H1 Manufacturer
+	Quotes and a sewn sample
+	Sewn (later)
+	[X] manufacturers
+	Meets specification; minimum order; lead time
+	No manufacturer meets specification at [X] units or fewer
+	H2 Final kitting
+	Kitting trial from a pick list
+	Cardboard (now)
+	3 people x 5 orders
+	Minutes per order; errors
+	Over [X]% of orders with errors, or over [X] min per order
+	H3 Harness and straps
+	Load and open/close cycle tests
+	Sewn (later)
+	[X] samples
+	Load at failure; cycles survived
+	Any failure below rated load
+	Value proposition
+	Side-by-side with Klein; pre-order page
+	Cardboard (now)
+	[n] electricians
+	Preference; willingness to pay; pre-orders
+	Under [X]% prefer Grippy, or price below Klein's
+	
+
+References
+Felin, T., Gambardella, A. and Zenger, T. (2021). “Value Lab: A Tool for Entrepreneurial Strategy.” Management and Business Review, 1(2).
+Keep Supply (2026). “Klein Tools 55482 Tradesman Pro Tool Station Tool Bag Backpack, 21 Pockets.” Product listing, keepsupply.com, accessed October 27, 2026.
+Klein Tools (2026). “Tradesman Pro Tool Station Backpack” (Cat. No. 55482). Product page, kleintools.com, accessed October 27, 2026.
+Stanley Black & Decker, Inc. (2025). Annual Report on Form 10-K for the fiscal year ended December 28, 2024. U.S. Securities and Exchange Commission.
+Treacy, M. and Wiersema, F. (1993). “Customer Intimacy and Other Value Disciplines.” Harvard Business Review, 71(1), 84–93.
+
+
+________________
+[1]Klein Tools, Tradesman Pro Tool Station Backpack (Cat. No. 55482), product page: the front flap opens halfway for quick access or fully into a workstation; the shoulder straps and back are padded, with adjustable chest and lower straps. kleintools.com, accessed October 27, 2026.
+[2]Interviews with electricians conducted by the Grippy team during the CVO project, fall 2026.
+[3]Felin, Gambardella and Zenger (2021). Value Lab asks founders to state contrarian beliefs, turn them into the problems that must be solved, and compose a short theory of value that experiments can test.
+[4]Stanley Black & Decker, Form 10-K for fiscal 2024: Tools & Outdoor net sales of $13,304 million, about 87% of company sales. We found no published market-share figure for professional tool storage alone, so “market leader” rests on this scale across tools and storage.
+[5]Klein Tools, company information, kleintools.com, accessed October 27, 2026.
+[6]Keep Supply lists the Klein Tool Station Backpack (Cat. No. 55482) at $110.00 against a list price of $162.78; other retailers list it at $110 to $116 (accessed October 27, 2026).
+[7]Treacy, M. and Wiersema, F. (1993), “Customer Intimacy and Other Value Disciplines,” Harvard Business Review 71(1): 84–93. The three disciplines are operational excellence, customer intimacy and product leadership.
