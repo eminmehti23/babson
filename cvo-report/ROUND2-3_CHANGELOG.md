@@ -66,21 +66,28 @@ Google Doc: https://docs.google.com/document/d/1-21zaPmB3eyZgpDz8dd66y5uix12tVvF
   - Exhibits 1–4 and References added.
   - US spelling and glossary applied.
 
-## Still needed from the team
-Nothing below was invented. The doc has 19 placeholders: [X], [Y], [Z] and [n].
+## Follow-up pass (same day)
+- **Footnotes:** each cut to one line. Full citations stay in References.
+- **Placeholders:** all 19 replaced with labelled planning assumptions:
+  - $120 target price;
+  - 15 kg rated load, with straps tested to 1.5 times that;
+  - defect rate of 3% or less;
+  - 10 minutes of kitting per order;
+  - shipping within 3 business days;
+  - 50-unit pilot;
+  - lead time of up to 8 weeks;
+  - 3 months of stable demand before Phase 2;
+  - 15 electricians and a $20 refundable deposit in the value-proposition test.
+- **Sections 6 and 7 rewritten:**
+  - 6.1 derives the gaps from Product Leadership and adds ergonomic design as the top gap.
+  - 6.2 replaces H1–H3 with three plain deal-killers: no real access benefit, unit cost too high, and the bag can't carry a full kit.
+  - The rapid prototype test is now a timed tool-retrieval test against a conventional backpack.
+  - Section 7 gives the reasoning for each recommendation and a go/no-go sequence.
+- **Exhibits 3 and 4** rebuilt to match. The Executive Summary is updated too.
 
-1. **Run the kitting trial (6.2) tonight** (3 people × 5 orders) and fill in the "Result: [X] minutes… [X] errors" line. If it isn't run, change "Result: …" to "Protocol only."
-2. **Numbers:**
-   - order-to-ship days (4.5);
-   - the six KPI targets (5.2);
-   - phase triggers [X]% / [Y] weeks / [Z] months (6.1);
-   - kill thresholds and sample sizes (6.2, 6.3, Exhibit 4).
+## Still needed from the team
+1. **Run the rapid prototype test.** The brief wants a test that was actually run. 6.2 currently describes the protocol only. Send the times and dropped-tool counts and a results sentence gets added.
+2. **Check the planning assumptions** listed above, and say if any should change.
 3. **Interview count:** add it to footnote 2 only if it's real.
-4. **Strategic Operational Audit template:** 6.1 and Exhibit 3 use generic step names. Swap in the exact names from the Canvas template.
-5. **Value Lab:** footnote 3 paraphrases the reading. Paste the exact definition of "value theory" if the reading gives one.
-6. **Verify the sources, which were checked through search results only:**
-   - Klein 55482 features and price (footnotes 1, 5, 6);
-   - SB&D FY2024 Tools & Outdoor sales of $13,304M (footnote 4);
-   - Exhibit 1 canvas blocks.
-7. **[team confirm] defaults used:** D1 Product Leadership, D2 V1 scope, D4 make-or-buy, D6 channel.
-8. **"Final" tab:** ask whoever created it what it's for.
+4. **Canvas audit template:** swap in its exact step names if they matter. Exhibit 3 now uses requirement, capability, gap and decision.
+5. **Verify the Klein and SB&D sources**, which were checked through search results only.
