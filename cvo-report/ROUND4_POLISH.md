@@ -2,7 +2,7 @@
 
 These edits were made in the Claude Docs working copy (https://claude.ai/artifact/8JDRdprNz5mrd6ewjm8caf), on the Report and Executive Summary tabs. They are not yet in the Google Doc.
 
-The snapshot of Sections 1–7 is `versions/v07-ops-polish/Report_Sections1-7.txt`, about 3,370 words. That is the same length as v06, which fit on pages 2–11.
+The final text is in `versions/v07-ops-polish/Report_final.txt` (Sections 1–7 are about 3,380 words, roughly the length of v06, which fit on pages 2–11) and `Executive_Summary_final.txt` (364 words; the last one-page version was 346 words with about three lines to spare).
 
 ## Logic and grammar fixes
 - **5.2 opener:** it gave a false reason ("Because the bag opens fully..."). It now says that standardization is the efficiency lever and explains why.
@@ -57,3 +57,21 @@ The full entries are in References.
 - **Google Doc:** apply these edits there, then check the page count (Sections 1–7 must end on page 11) and that the Executive Summary stays on one page.
 - **Interpretation gap:** confirm the course's definition. It was applied here as the gap between Grippy's design intent and what the manufacturer sews.
 - **Hill citation:** confirm the edition the course uses.
+
+## Final check (same day)
+An independent reviewer checked every number, count, phase, cross-reference and footnote against the rest of the report. It found no arithmetic or factual errors: the Stanley Black & Decker FY2024 Tools & Outdoor figure, the Klein price and the 1857 founding date were checked against sources. Fixed:
+- **6.1:** delivery only needs to be "reasonable"; it can't "match" Klein, which sells off the shelf.
+- **5.2:** process KPIs start at the pilot, so only the product KPIs are recorded in the earlier test rounds.
+- **6.2:**
+  - path-dependent example changed to which add-on compartments sell, which sets Phase 2 stock and the CODP;
+  - "cheap to test now" changed to "before the pilot";
+  - deal-killer sentence reworded so it reads correctly.
+- **6.1:** the 3% defect rate is stated as no more than one bag in 50.
+- **Grammar and notation:** "them/they" ambiguity in Section 3, a run-on in 5.3, "x" changed to "×" in Exhibit 4.
+- **Citations:**
+  - Exhibit 1 cites footnotes 4 to 6;
+  - added a reference entry for the Klein company-history footnote;
+  - corrected the subtitle of the 1984 Goldratt edition.
+- **Executive Summary:** rewritten to match the report, now adding the three capability gaps, all four kill thresholds and the go/no-go order.
+
+Left as is: "capacity/durability" in 1.3 (a teammate's edit).
