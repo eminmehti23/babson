@@ -75,3 +75,17 @@ An independent reviewer checked every number, count, phase, cross-reference and 
 - **Executive Summary:** rewritten to match the report, now adding the three capability gaps, all four kill thresholds and the go/no-go order.
 
 Left as is: "capacity/durability" in 1.3 (a teammate's edit).
+
+## Synced to the Google Doc and exported (29 Oct 2026)
+- **Sync:** every Claude-doc edit is now in the Google Doc, so the two versions match word for word.
+  - The five new citations are real Google Docs footnotes (12 in total).
+  - Bold appears only on the lead-in labels.
+- **Formatting fixes:**
+  - spacing above three body paragraphs in 1.2 and 2.1 normalized;
+  - exhibit captions made consistent;
+  - page breaks so no exhibit table splits across pages;
+  - References on their own page with hanging indents;
+  - Executive Summary title set in Times New Roman, with the team line added.
+- **Final PDFs** in `cvo-report/final/`:
+  - `Grippy_Operational_Strategy_Report.pdf`: 15 pages. Title page, Sections 1–7 on pages numbered 1–10, Exhibits 1–4 on 11–13, References on 14. The page numbers were stamped on the PDF, because the Docs API can't insert page-number fields.
+  - `Grippy_Executive_Summary.pdf`: 1 page.
